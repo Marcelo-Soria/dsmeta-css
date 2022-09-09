@@ -1,7 +1,0 @@
-Videos:
-
-HTML e CSS a partir do Figma 1/2: Preparação para Semana Spring React
-https://www.youtube.com/watch?v=FYgIpVf9TBI
-
-HTML e CSS a partir do Figma 2/2: Preparação para Semana Spring React
-https://www.youtube.com/watch?v=EsQ07Og1yFM
